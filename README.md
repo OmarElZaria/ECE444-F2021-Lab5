@@ -1,5 +1,8 @@
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
+## Activity 6
+The Search for courses component in the new UI is better layed out than the old UI with every filter clearly indicating what its functionality is intended for. The line breaks removes confusion, clutter, and is a lot more pleasing for the eye.
+
 # CARTE Education Pathways
 
 ## Description
